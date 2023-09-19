@@ -1,0 +1,34 @@
+{
+    "estates": [
+        {
+            "block_id": 1,
+            "id": "house-sun",
+            "name": "House Sun",
+            "location": "Split, Croatia",
+            "desc": "This stunning 800m² villa is a true masterpiece of modern living. Nestled in a serene and private setting, this luxurious residence boasts spacious living areas, elegant bedrooms, and top-notch amenities. Enjoy the grandeur of high ceilings, an expansive garden, and breathtaking views. Perfect for those seeking opulence, comfort, and a lifestyle of sophistication.",
+            "img": "villa1.jpeg",
+            "images": [
+                "villa1.jpeg",
+                "villa1.jpeg",
+                "villa1.jpeg",
+                "villa1.jpeg"
+            ],
+            "price": "6,000,000 $"
+        },
+        {
+            "block_id": 2,
+            "id": "house-brig",
+            "name": "House Brig",
+            "location": "Pula, Croatia",
+            "desc": "This grand villa is a masterpiece of architectural excellence, offering an expansive 1100m² of opulent living space. Situated on an expansive estate, this residence embodies luxury at its finest. With palatial interiors, vast living areas, and panoramic views, this villa is an oasis of elegance. Experience the epitome of grand living, complete with lavish amenities and abundant space for your every need.",
+            "img": "villa1.jpeg",
+            "images": [
+                "villa1.jpeg",
+                "villa1.jpeg",
+                "villa1.jpeg",
+                "villa1.jpeg"
+            ],
+            "price": "6,000,000 $"
+        }
+    ]
+}
